@@ -1,5 +1,8 @@
 _repo: Ancient-Classics-for-English-Readers-Homer-The-Iliad-The-Odyssey_59306
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59306-h/images/cover.jpg
 creator:
   author:
     agent_name: Collins, W. Lucas (William Lucas)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3985'
     url: http://www.gutenberg.org/2009/agents/3985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59306#Ancient-Classics-for-English-Readers-Homer-The-Iliad-The-Odyssey
 gutenberg_issued: '2019-04-18'
 gutenberg_type: Text
 identifiers:
